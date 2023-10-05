@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "F90StbT60eEHqwu5oAE4UiBVVVBWOTtKEtf1okj82wCXuO+z4IpYAsY7o4bl5ictDUXwtNP1/fGVqa8CDedaCg==",
+  "dgSpecHash": "wz1wQnHNjry6dtOzDzr16x3wJ84xSusnpIOHcEPvtRr8EQlk7wMzUvgg/RwYCTFdL4xsQsjL77PqpT48uvKnMg==",
   "success": true,
-  "projectFilePath": "C:\\Users\\APM02-63\\Desktop\\Grupo2\\core\\core.csproj",
+  "projectFilePath": "/workspaces/Grupo2/core/core.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }
