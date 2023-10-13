@@ -7,6 +7,7 @@ namespace core.Entities
 {
     public class TrainerSalon : BaseEntity
     {
-        
+        public ICollection<Persona> IdPersona { get; set; }
+        public ICollectio<Salon> IdSalon { get; set; }
     }
 }
