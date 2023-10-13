@@ -7,6 +7,7 @@ namespace core.Entities
 {
     public class TipoPersona : BaseEntity
     {
-        
+        public string Descripcion { get; set; }
+
     }
 }
