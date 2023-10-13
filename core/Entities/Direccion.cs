@@ -9,5 +9,11 @@ namespace core.Entities
     {
         public string TipoVia { get; set; }
         public int Numero { get; set; }
+        public string Letra { get; set; }
+        public string SufijoCardinal { get; set; }
+        public int NroViaSecundaria { get; set; }
+        public string LetraViaSecundaria { get; set; }
+        public int SufijoCards { get; set; }
+        public ICollection<Persona> IdPersona { get; set; }
     }
 }
